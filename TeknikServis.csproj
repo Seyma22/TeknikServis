@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EF464420-77B9-44D5-B8C4-86E392BFB5C0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TeknikServis</RootNamespace>
+    <AssemblyName>TeknikServis</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaForm.Designer.cs">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyarFormlari\DONANIM_TURLERI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyarFormlari\DONANIM_TURLERI.Designer.cs">
+      <DependentUpon>DONANIM_TURLERI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyarFormlari\GONDERIM_SEKILLERI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyarFormlari\GONDERIM_SEKILLERI.Designer.cs">
+      <DependentUpon>GONDERIM_SEKILLERI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyarFormlari\LISANS_TIPLERI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyarFormlari\LISANS_TIPLERI.Designer.cs">
+      <DependentUpon>LISANS_TIPLERI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyarFormlari\SERVIS_SEKILLERI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyarFormlari\SERVIS_SEKILLERI.Designer.cs">
+      <DependentUpon>SERVIS_SEKILLERI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyarFormlari\TEKNIK_SERVIS_FIRMALARI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyarFormlari\TEKNIK_SERVIS_FIRMALARI.Designer.cs">
+      <DependentUpon>TEKNIK_SERVIS_FIRMALARI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyarFormlari\UYELER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyarFormlari\UYELER.Designer.cs">
+      <DependentUpon>UYELER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AYARLAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AYARLAR.Designer.cs">
+      <DependentUpon>AYARLAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyarFormlari\FIRMALAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyarFormlari\FIRMALAR.Designer.cs">
+      <DependentUpon>FIRMALAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FATURA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FATURA.Designer.cs">
+      <DependentUpon>FATURA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GIRIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GIRIS.Designer.cs">
+      <DependentUpon>GIRIS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KAYITLAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KAYITLAR.Designer.cs">
+      <DependentUpon>KAYITLAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KISILER_AYRINTI_DUZENLE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KISILER_AYRINTI_DUZENLE.Designer.cs">
+      <DependentUpon>KISILER_AYRINTI_DUZENLE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Dal.cs" />
+    <Compile Include="Models\Donanimlar.cs" />
+    <Compile Include="Models\DonanimTurleri.cs" />
+    <Compile Include="Models\Firmalar.cs" />
+    <Compile Include="Models\Giris.cs" />
+    <Compile Include="Models\GonderimSekilleri.cs" />
+    <Compile Include="Models\Hurdalar.cs" />
+    <Compile Include="Models\Kullanicilar.cs" />
+    <Compile Include="Models\Lisanslar.cs" />
+    <Compile Include="Models\LisansTipleri.cs" />
+    <Compile Include="Models\ServisFirmalari.cs" />
+    <Compile Include="Models\ServisSekilleri.cs" />
+    <Compile Include="Models\TeknikServisler.cs" />
+    <Compile Include="Models\Uyeler.cs" />
+    <Compile Include="Models\Yazilimlar.cs" />
+    <Compile Include="PrintDGV.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TEKNIK_SERVIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEKNIK_SERVIS.Designer.cs">
+      <DependentUpon>TEKNIK_SERVIS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TEKNIK_SERVIS_YENI_KAYIT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEKNIK_SERVIS_YENI_KAYIT.Designer.cs">
+      <DependentUpon>TEKNIK_SERVIS_YENI_KAYIT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YENI_DONANIM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YENI_DONANIM.Designer.cs">
+      <DependentUpon>YENI_DONANIM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YENI_KISI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YENI_KISI.Designer.cs">
+      <DependentUpon>YENI_KISI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YENI_LISANS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YENI_LISANS.Designer.cs">
+      <DependentUpon>YENI_LISANS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YENI_YAZILIM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YENI_YAZILIM.Designer.cs">
+      <DependentUpon>YENI_YAZILIM.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnaForm.resx">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyarFormlari\DONANIM_TURLERI.resx">
+      <DependentUpon>DONANIM_TURLERI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyarFormlari\GONDERIM_SEKILLERI.resx">
+      <DependentUpon>GONDERIM_SEKILLERI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyarFormlari\LISANS_TIPLERI.resx">
+      <DependentUpon>LISANS_TIPLERI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyarFormlari\SERVIS_SEKILLERI.resx">
+      <DependentUpon>SERVIS_SEKILLERI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyarFormlari\TEKNIK_SERVIS_FIRMALARI.resx">
+      <DependentUpon>TEKNIK_SERVIS_FIRMALARI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyarFormlari\UYELER.resx">
+      <DependentUpon>UYELER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AYARLAR.resx">
+      <DependentUpon>AYARLAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyarFormlari\FIRMALAR.resx">
+      <DependentUpon>FIRMALAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FATURA.resx">
+      <DependentUpon>FATURA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GIRIS.resx">
+      <DependentUpon>GIRIS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KAYITLAR.resx">
+      <DependentUpon>KAYITLAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KISILER_AYRINTI_DUZENLE.resx">
+      <DependentUpon>KISILER_AYRINTI_DUZENLE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TEKNIK_SERVIS.resx">
+      <DependentUpon>TEKNIK_SERVIS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEKNIK_SERVIS_YENI_KAYIT.resx">
+      <DependentUpon>TEKNIK_SERVIS_YENI_KAYIT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YENI_DONANIM.resx">
+      <DependentUpon>YENI_DONANIM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YENI_KISI.resx">
+      <DependentUpon>YENI_KISI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YENI_LISANS.resx">
+      <DependentUpon>YENI_LISANS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YENI_YAZILIM.resx">
+      <DependentUpon>YENI_YAZILIM.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

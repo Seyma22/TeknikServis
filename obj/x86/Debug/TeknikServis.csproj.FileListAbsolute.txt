@@ -1,0 +1,77 @@
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\bin\Debug\TeknikServis.exe
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\bin\Debug\TeknikServis.pdb
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AnaForm.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.Properties.Resources.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.csproj.GenerateResource.Cache
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.exe
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.pdb
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.KAYITLAR.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.TEKNIK_SERVIS.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.KISILER_AYRINTI_DUZENLE.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.YENI_KISI.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.YENI_DONANIM.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.csprojResolveAssemblyReference.cache
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.YENI_YAZILIM.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.YENI_LISANS.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.TEKNIK_SERVIS_YENI_KAYIT.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AYARLAR.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.FIRMALAR.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.DONANIM_TURLERI.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.LISANS_TIPLERI.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.TEKNIK_SERVIS_FIRMALARI.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.GONDERIM_SEKILLERI.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.SERVIS_SEKILLERI.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.UYELER.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.GIRIS.resources
+C:\Users\turgay\Desktop\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.FATURA.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.exe
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.pdb
+D:\yazılım\C#\TeknikServis\TeknikServis\bin\Debug\TeknikServis.exe
+D:\yazılım\C#\TeknikServis\TeknikServis\bin\Debug\TeknikServis.pdb
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.csprojResolveAssemblyReference.cache
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AnaForm.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.DONANIM_TURLERI.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.GONDERIM_SEKILLERI.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.LISANS_TIPLERI.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.SERVIS_SEKILLERI.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.TEKNIK_SERVIS_FIRMALARI.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.UYELER.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AYARLAR.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.FIRMALAR.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.FATURA.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.GIRIS.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.KAYITLAR.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.KISILER_AYRINTI_DUZENLE.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.Properties.Resources.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.TEKNIK_SERVIS.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.TEKNIK_SERVIS_YENI_KAYIT.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.YENI_DONANIM.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.YENI_KISI.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.YENI_LISANS.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.YENI_YAZILIM.resources
+D:\yazılım\C#\TeknikServis\TeknikServis\obj\x86\Debug\TeknikServis.csproj.GenerateResource.Cache
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.csprojResolveAssemblyReference.cache
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.AnaForm.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.DONANIM_TURLERI.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.GONDERIM_SEKILLERI.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.LISANS_TIPLERI.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.SERVIS_SEKILLERI.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.TEKNIK_SERVIS_FIRMALARI.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.UYELER.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.AYARLAR.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.AyarFormlari.FIRMALAR.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.FATURA.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.GIRIS.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.KAYITLAR.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.KISILER_AYRINTI_DUZENLE.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.Properties.Resources.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.TEKNIK_SERVIS.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.TEKNIK_SERVIS_YENI_KAYIT.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.YENI_DONANIM.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.YENI_KISI.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.YENI_LISANS.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.YENI_YAZILIM.resources
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.csproj.GenerateResource.cache
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.csproj.CoreCompileInputs.cache
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.exe
+E:\ \BilgiIslemTakip-master\TeknikServis\obj\x86\Debug\TeknikServis.pdb
